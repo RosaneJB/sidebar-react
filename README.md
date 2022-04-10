@@ -4,6 +4,6 @@
 
 # :globe_with_meridians: Technologies
 
-[x] ReactJs
-[x] Typescrypt
-[x] React-icons
+- [x] ReactJs
+- [x] Typescrypt
+- [x] React-icons
